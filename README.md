@@ -2,11 +2,9 @@
 
 A Chrome extension that adds `-site:reddit.com` to searches on `www.google.com` and `www.google.com.au`. It does not change your default search engine or block direct visits to Reddit.
 
-## Install on Chrome
+## Install on Chrome (manual)
 
-**Chrome Web Store: not live yet.** Once published, open the [Chrome Web Store listing](https://chromewebstore.google.com/detail/lckbehoejpjlgaoeameonanmdoilagkk), click **Add to Chrome**, and confirm. No Developer mode needed for the Store install.
-
-**Manual install now:** [Download `remove-reddit-from-search.zip`](https://github.com/five0nit/remove-reddit-from-search/releases/download/v1.0.3/remove-reddit-from-search.zip).
+[Download `remove-reddit-from-search.zip`](https://github.com/five0nit/remove-reddit-from-search/releases/download/v1.0.3/remove-reddit-from-search.zip).
 
 1. Extract the ZIP to a folder you can keep.
 2. Open `chrome://extensions` in desktop Chrome.
