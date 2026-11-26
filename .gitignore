@@ -1,0 +1,17 @@
+# Generated packages and listing artwork
+*.zip
+/store/icon128.png
+/store/promo440x280.png
+
+# Local build and dashboard receipts
+/BUILD.md
+/store/VERIFICATION.md
+
+# Local scratch and credentials
+__pycache__/
+.venv/
+.env
+.env.*
+*.pem
+*.key
+*.crx

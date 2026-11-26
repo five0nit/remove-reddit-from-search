@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "remove reddit from search",
+  "version": "1.0.3",
+  "description": "Automatically excludes reddit.com from Google searches.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.google.com/search*",
+        "https://www.google.com.au/search*"
+      ],
+      "js": ["filter-search.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
